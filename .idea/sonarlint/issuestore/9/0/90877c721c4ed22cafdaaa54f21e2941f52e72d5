@@ -1,0 +1,10 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(êÁ’Š
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÁáŞ±
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¢Ø¾ùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(›óé¿ÿÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(›óé¿ÿÿÿÿÿ8­¾“ÑÓ1
+o
+java:S1192"MDefine a constant instead of duplicating this literal "Double Data:" 3 times.(¢Ø¾ùÿÿÿÿ8¯¾“ÑÓ1
+0
+java:S1220""Move this file to a named package.

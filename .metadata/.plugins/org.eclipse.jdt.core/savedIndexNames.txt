@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\91998\Documents\ford2024\.metadata\.plugins\org.eclipse.jdt.core
+3435648363.index
+572794127.index

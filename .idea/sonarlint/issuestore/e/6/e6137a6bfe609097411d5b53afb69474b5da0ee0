@@ -1,0 +1,59 @@
+
+U
+java:S1854+":Remove this useless assignment to local variable "number".(¯´€þùÿÿÿÿ
+Q
+java:S1854""6Remove this useless assignment to local variable "i3".(˜ó©Îøÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¯¡‘˜
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ßŒÖ¶
+N	java:S106"9Replace this use of System.out or System.err by a logger.(½¥ •
+N	java:S106
+"9Replace this use of System.out or System.err by a logger.(¯²‡Œ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¦Ë“øûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(º—ï…
+S	java:S106"9Replace this use of System.out or System.err by a logger.(æ©ÊØÿÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(š†®«
+S	java:S106"9Replace this use of System.out or System.err by a logger.(±™ûºÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ò¾–Èýÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ƒëÚ’üÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Èá·þýÿÿÿÿ
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(ƒ¡÷¬þÿÿÿÿ
+B
+java:S1481""'Remove this unused "i3" local variable.(˜ó©Îøÿÿÿÿ
+E
+java:S1874#"/Remove this use of "Integer"; it is deprecated.(ì‘ƒ
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(¤„öóùÿÿÿÿ
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(½•œúûÿÿÿÿ
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(åéø²ùÿÿÿÿ
+F
+java:S1481+"+Remove this unused "number" local variable.(¯´€þùÿÿÿÿ
+V	java:S125,"<This block of commented-out lines of code should be removed.(ò¯ðøÿÿÿÿ
+;
+java:S2129/" Remove this "String" constructor(ÆÏÀŒúÿÿÿÿ
+M	java:S1062"9Replace this use of System.out or System.err by a logger.(Ú‚u
+N	java:S1064"9Replace this use of System.out or System.err by a logger.(ä»†¼
+M	java:S1067"9Replace this use of System.out or System.err by a logger.(Ú‚u
+N	java:S1069"9Replace this use of System.out or System.err by a logger.(ä»†¼
+C	java:S108<")Either remove or fill this block of code.(çýŒ†úÿÿÿÿ
+N	java:S106?"9Replace this use of System.out or System.err by a logger.(«Ò¼È
+N	java:S106A"9Replace this use of System.out or System.err by a logger.(¥Ûì¶
+N	java:S106C"9Replace this use of System.out or System.err by a logger.(úÞÜç
+Z
+java:S3358C"DExtract this nested ternary operation into an independent statement.(úÞÜç
+S	java:S106I"9Replace this use of System.out or System.err by a logger.(ã¯Ò«þÿÿÿÿ
+V	java:S125H"<This block of commented-out lines of code should be removed.(ëˆï·ÿÿÿÿÿ
+N	java:S106K"9Replace this use of System.out or System.err by a logger.(–ó×Ö
+S	java:S106N"9Replace this use of System.out or System.err by a logger.(¾Ù‚èþÿÿÿÿ
+S	java:S106P"9Replace this use of System.out or System.err by a logger.(©¿ˆžøÿÿÿÿ
+V	java:S125R"<This block of commented-out lines of code should be removed.(µ¶ûŸüÿÿÿÿ
+R
+java:S49731"<Strings and Boxed types should be compared using "equals()".(ÌÊ¨œ
+0
+java:S1220""Move this file to a named package.
+H
+java:S1199:"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+Z
+java:S2583A"DChange this condition so that it does not always evaluate to "false"(¥Ûì¶
+Y
+java:S2583C"CChange this condition so that it does not always evaluate to "true"(úÞÜç
+Z
+java:S2583C"DChange this condition so that it does not always evaluate to "false"(úÞÜç
